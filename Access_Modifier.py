@@ -3,7 +3,6 @@
 #Protected access modifier
 
 #Public
-
 class Employee:
     def __init__(self):
         self.name = "Sagar"
